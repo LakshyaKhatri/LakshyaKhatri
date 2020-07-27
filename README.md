@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Lakshya Khatri**. I'm an undergraduate IT Student from India.
+My name is **Lakshya Khatri**. I'm an undergraduate IT student from India.
 
 - 🔭 I’m currently contributing to Open-Source projects in @JuliaLang as part of the @MLH-Fellowship program.  
 - 🌱 I’m currently learning Julia language.
