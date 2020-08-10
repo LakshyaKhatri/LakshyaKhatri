@@ -1,4 +1,4 @@
-![BACK OFF! I AM TRYING SCIENCE](https://raw.githubusercontent.com/LakshyaKhatri/LakshyaKhatri/master/img/banner.png)
+<!-- ![BACK OFF! I AM TRYING SCIENCE](https://raw.githubusercontent.com/LakshyaKhatri/LakshyaKhatri/master/img/banner.png) -->
 
 ---
 
