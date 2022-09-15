@@ -1,7 +1,30 @@
 ![BACK OFF! I AM TRYING SCIENCE](https://raw.githubusercontent.com/LakshyaKhatri/LakshyaKhatri/master/img/banner.png)
 
 # Hi, My Name is Lakshya <img width="45" src="https://raw.githubusercontent.com/LakshyaKhatri/LakshyaKhatri/master/img/waving_hand.gif">
-I'm a junior software developer from India. I mostly work on Python and RoR projects, but I occasionally change languages to get a different taste. I’m currently working as an RoR developer [@deqode](https://github.com/deqode). Previously I was contributing to Open-Source projects under [@JuliaLang](https://github.com/JuliaLang/) as part of the [@MLH-Fellowship](https://github.com/MLH-Fellowship/) program. You can hit me up on any social media platforms if you want to talk about Ruby, RoR, Javascript, Node, Python, Django, Django RF, Data Scraping, Android (Java + Kotlin), Julia, or any interesting technology you want. We can talk about coffee too, I am always ready to make new connections. Besides that I love travelling to different places and sometime I work on DIY projects.
+
+## What I do:
+I'm an SE at [Deqode](https://www.deqode.com) (NodeJS, RoR & React).
+
+## My Interests:
+- Building new software products.
+- Optimizing slow code/architecture, simplifying complex systems and making everything future-proof. I can spend hours on code ([or even days](https://github.com/JuliaPlots/Plots.jl/pull/2809)) if I have a somewhat clear goal.
+- Learning about [new solutions](https://www.youtube.com/watch?v=xsSnOQynTHs) and mental models.
+- Reading & journaling.
+
+## Proof of work:
+- [Bookshelf-Reader-API](https://github.com/lakshyakhatri/bookshelf-reader-api) & [Booksheld-Reader](https://github.com/lakshyakhatri/bookshelf-reader). These projects got me:
+    - Attend a [two-day hackathon](https://hackmit.org/) @MIT Boston.
+    - An open-source remote internship via [MLH](https://fellowship.mlh.io/).
+- I'm currently maintaining and contributing to some projects ([CDSAPI.jl](https://github.com/JuliaClimate/CDSAPI.jl), [Plots.jl](https://github.com/JuliaPlots/Plots.jl/pull/2837/)) under the [Julia](https://julialang.org/) community.
+- Stupid stuff built back in my college days:
+    - [Lifetime](https://github.com/LakshyaKhatri/Lifetime)
+    - [Asistant](https://github.com/LakshyaKhatri/Assistant)
+
+## Some things I believe:
+- Grit produces results that compounds.
+- Learning things is not a barrier for people. A human can learn anything and [produce incredible results](https://lakshya.codes/blog/my-journey-as-an-mlh-fellow/#projects-i-got-to-work-on-during-the-fellowship)
+- Experience is irrelevant in this attention-driven economy.
+- Enthusiasm and environments matter.
 
 ### My Skills
 
