@@ -11,15 +11,6 @@ I'm an SE at [Deqode](https://www.deqode.com) (NodeJS, RoR & React).
 - Learning about [new solutions](https://www.youtube.com/watch?v=xsSnOQynTHs) and mental models.
 - Reading & journaling.
 
-## Proof of work:
-- [Bookshelf-Reader-API](https://github.com/lakshyakhatri/bookshelf-reader-api) & [Booksheld-Reader](https://github.com/lakshyakhatri/bookshelf-reader). These projects got me:
-    - Attend a [two-day hackathon](https://hackmit.org/) @MIT Boston.
-    - An open-source remote internship via [MLH](https://fellowship.mlh.io/).
-- I'm currently maintaining and contributing to some projects ([CDSAPI.jl](https://github.com/JuliaClimate/CDSAPI.jl), [Plots.jl](https://github.com/JuliaPlots/Plots.jl/pull/2837/)) under the [Julia](https://julialang.org/) community.
-- Stupid stuff built back in my college days:
-    - [Lifetime](https://github.com/LakshyaKhatri/Lifetime)
-    - [Asistant](https://github.com/LakshyaKhatri/Assistant)
-
 ## Some things I believe:
 - Grit produces results that compounds.
 - Learning things is not a barrier for people. A human can learn anything and [produce incredible results](https://lakshya.codes/blog/my-journey-as-an-mlh-fellow/#projects-i-got-to-work-on-during-the-fellowship)
