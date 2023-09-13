@@ -3,7 +3,7 @@
 # Hi, My Name is Lakshya <img width="45" src="https://raw.githubusercontent.com/LakshyaKhatri/LakshyaKhatri/master/img/waving_hand.gif">
 
 ## What I do:
-I'm an SE at [Deqode](https://www.deqode.com) (NodeJS, RoR & React).
+I'm an SE at [Deqode](https://www.deqode.com) (NodeJS, RoR, Django, React).
 
 ## My Interests:
 - Building new software products.
