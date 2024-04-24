@@ -14,7 +14,7 @@ I'm an SE at [Deqode](https://www.deqode.com) (NodeJS, RoR, Django, React).
 ## Some things I believe:
 - Grit produces results that compounds.
 - Learning things is not a barrier for people. A human can learn anything and [produce incredible results](https://lakshya.codes/blog/my-journey-as-an-mlh-fellow/#projects-i-got-to-work-on-during-the-fellowship)
-- Experience is a bad matric to judge knowledge.
+- Experience is a bad metric to judge knowledge.
 - Enthusiasm and environments matter.
 
 ---
