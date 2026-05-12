@@ -3,7 +3,7 @@
 # Hi, My Name is Lakshya <img width="45" src="https://raw.githubusercontent.com/LakshyaKhatri/LakshyaKhatri/master/img/waving_hand.gif">
 
 ## What I do:
-I'm an SDE-3 at [UST](https://www.ust.com).
+I'm an SDE-2 at [Uplight](https://uplight.com).
 
 ## My Interests:
 - Building new software products.
